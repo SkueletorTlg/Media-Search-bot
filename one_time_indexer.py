@@ -12,7 +12,7 @@ from utils import save_file
 
 
 async def main():
-    """Save old files in database with the help of user bot"""
+    """Guarde archivos antiguos en la base de datos con la ayuda del bot de usuario"""
 
     user_bot = Client(USER_SESSION, API_ID, API_HASH)
     bot = Client(SESSION, API_ID, API_HASH, bot_token=BOT_TOKEN)
