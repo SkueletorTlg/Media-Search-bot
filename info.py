@@ -28,7 +28,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 START_MSG = """
 **Hola, soy el bot de búsqueda de archivos de Pro Android :D**
 
-Aquí puede buscar archivos en inline mode. Simplemente presione los siguientes botones y comience a buscar aplicaciones subidas al canal de Pro Android © (@baseddatos)
+Aquí puede buscar archivos en inline mode. Simplemente presione los siguientes botones y comience a buscar aplicaciones subidas al canal de Pro Android © (específicamente del canal @baseddatos)
 
 **Bot creado y gestionado por @DKzippO, si quieres conocer mis canales visita @CanalesFamosos :D**
 """
