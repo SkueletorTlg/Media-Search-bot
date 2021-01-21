@@ -29,4 +29,4 @@ Aquí puede buscar archivos en inline mode. Simplemente presione los siguientes 
 **Bot creado y gestionado por @DKzippO, si quieres conocer mis canales visita @CanalesFamosos :D**
 """
 
-SHARE_BUTTON_TEXT = 'Revisa {username} para buscar archivos.'
+SHARE_BUTTON_TEXT = 'Revisa {username} para buscar archivos de Pro Android :D'
