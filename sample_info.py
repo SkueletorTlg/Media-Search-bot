@@ -22,9 +22,11 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+**Hola, soy el bot de búsqueda de archivos de Pro Android :D**
 
-Here you can search files in inline mode. Just press follwing buttons and start searching.
+Aquí puede buscar archivos en inline mode. Simplemente presione los siguientes botones y comience a buscar aplicaciones subidas al canal de Pro Android © (específicamente, del canal @baseddatos)
+
+**Bot creado y gestionado por @DKzippO, si quieres conocer mis canales visita @CanalesFamosos :D**
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
