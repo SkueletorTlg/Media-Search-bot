@@ -7,7 +7,7 @@ from info import MAX_RESULTS, CACHE_TIME, SHARE_BUTTON_TEXT, AUTH_USERS
 
 @Client.on_inline_query(filters.user(AUTH_USERS) if AUTH_USERS else None)
 async def answer(bot, query):
-    """Show search results for given inline query"""
+    """Mostrando resultados de Pro Android para una búsqueda inline"""
 
     results = []
     if '|' in query.query:
